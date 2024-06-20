@@ -6,3 +6,4 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 hello-world
 idootop/mi-gpt:latest
+xhofe/alist:latest
