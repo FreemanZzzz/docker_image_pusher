@@ -7,3 +7,4 @@ xhofe/alist:latest
 hello-world
 idootop/mi-gpt:latest
 xhofe/alist:latest
+idootop/mi-gpt-tts:latest
