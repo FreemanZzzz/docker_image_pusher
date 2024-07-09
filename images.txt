@@ -4,8 +4,8 @@ k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 
-xiaoyaliu/alist
+#xiaoyaliu/alist
 hello-world
 idootop/mi-gpt:latest
-xhofe/alist:latest
 idootop/mi-gpt-tts:latest
+xhofe/alist:latest
